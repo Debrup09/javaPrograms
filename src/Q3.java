@@ -13,4 +13,5 @@ public class Q3 {
         System.out.println("GST: " + GSTPaid);
         System.out.println("Total Tax: " + totalTax);
     }
+
 }

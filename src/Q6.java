@@ -1,4 +1,4 @@
-//find the max among 3 numbers
+//find the maximum among 3 numbers
 
 import java.util.Scanner;
 

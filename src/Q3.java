@@ -1,3 +1,5 @@
+// Program to Calculate Total Tax
+
 public class Q3 {
     public static void main(String[] args) {
         int sales = 95_000;

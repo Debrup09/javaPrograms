@@ -1,11 +1,13 @@
-// print even numbers between 9 and 100
+// print even numbers between chosen numbers
 
 import java.util.Scanner;
 
 public class Q11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int lim1 = 9, lim2 = 100;
+        System.out.println("Enter the upper and lower limit numbers: ");
+        int lim1 = sc.nextInt();
+        int lim2 = sc.nextInt();
 
         while (lim2>=lim1) {
             if (lim1%2 == 0) {

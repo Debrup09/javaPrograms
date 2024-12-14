@@ -18,7 +18,7 @@ public class Q7 {
             div+=1;
         }
 
-        if (flag==true) {
+        if (flag) {
             System.out.println("It is Prime");
         } else {
             System.out.println("It is not Prime");

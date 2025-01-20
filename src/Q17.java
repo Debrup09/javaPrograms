@@ -13,6 +13,7 @@ public class Q17 {
             flip = number % 10;
             System.out.print(flip);
             number /= 10;
+
         }
     }
 }

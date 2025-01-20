@@ -7,13 +7,13 @@ public class Q17 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int number = sc.nextInt();
-        int flip = 0;
+        int flip, rev = 0;
 
         while (number != 0) {
             flip = number % 10;
-            System.out.print(flip);
+            rev = rev * 10 + flip;
             number /= 10;
-
         }
+        System.out.println(rev);
     }
 }

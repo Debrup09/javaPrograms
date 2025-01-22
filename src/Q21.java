@@ -10,9 +10,9 @@ public class Q21 {
         int n = sc.nextInt();
         int dec = 10, mult;
 
-        for (int i = 2; i <= dec; i++) {
+        for (int i = 1; i <= dec; i++) {
             mult = n*i;
-            System.out.println(mult);
+            System.out.println(n + " x " + i + " = " + mult);
         }
     }
 }

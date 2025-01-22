@@ -3,14 +3,14 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class Qx {
+public class Q22 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("What is the principal amount you want to loan? : ");
         double principal = sc.nextDouble();
 
-        System.out.print("What Annual Interest rent you want? : ");
+        System.out.print("What Annual Interest rate you want? : ");
         double annualInterest = sc.nextDouble();
         annualInterest = (annualInterest/100) / 12;
 

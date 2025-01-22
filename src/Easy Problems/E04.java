@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class E4 {
+public class E04 {
     public static void main(String[] args) {
         double celsius;
 

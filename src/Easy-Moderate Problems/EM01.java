@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class EM1 {
+public class EM01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Square Length: ");

@@ -1,6 +1,6 @@
 // Program to Calculate Total Tax
 
-public class E3 {
+public class E03 {
     public static void main(String[] args) {
         int sales = 95_000;
         double incomeTaxRate = 0.04;

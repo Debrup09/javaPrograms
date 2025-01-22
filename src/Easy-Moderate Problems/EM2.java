@@ -3,7 +3,7 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class Qx {
+public class EM2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

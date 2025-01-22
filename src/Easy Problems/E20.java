@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Q20 {
+public class E20 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number you want factorial of: ");

@@ -1,7 +1,7 @@
 // Calculate Simple Interest
 
 import java.util.Scanner;
-public class Q5 {
+public class E5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("This is a Program that finds out the Amount after implementing Simple Interest!");

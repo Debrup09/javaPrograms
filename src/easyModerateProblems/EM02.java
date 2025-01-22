@@ -1,5 +1,6 @@
 //this is a mortgage calculator
 
+package easyModerateProblems;
 import java.text.NumberFormat;
 import java.util.Scanner;
 

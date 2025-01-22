@@ -1,5 +1,6 @@
 // FizzBuzz interview question
 
+package easyModerateProblems;
 import java.util.Scanner;
 
 public class EM03 {

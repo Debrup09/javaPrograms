@@ -1,5 +1,6 @@
 //Print a square using * (pattern problem)
 
+package easyModerateProblems;
 import java.util.Scanner;
 
 public class EM01 {

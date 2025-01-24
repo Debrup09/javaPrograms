@@ -1,3 +1,5 @@
+// Program to add numbers
+
 package easyProblems;
 
 import java.util.Scanner;

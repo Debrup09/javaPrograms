@@ -1,3 +1,5 @@
+//Butterfly Pattern
+
 package easyModerateProblems;
 
 import java.util.Scanner;

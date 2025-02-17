@@ -4,7 +4,7 @@ package easyModerateProblems;
 
 import java.util.Scanner;
 
-public class EM25 {
+public class searchBinary {
 
     public static int[] arrayInit() {
         Scanner sc = new Scanner(System.in);

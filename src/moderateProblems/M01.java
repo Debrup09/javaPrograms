@@ -1,4 +1,4 @@
-//Trapping Rainwater
+//Trapping Rainwater [Hard]
 
 package moderateProblems;
 
